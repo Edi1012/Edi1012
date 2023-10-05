@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+## Hello, I'm Isaac Rodríguez 👋
+
+### About Me
+
+In my most recent role, I worked in the financial sector, collaborating with a team of developers to create innovative solutions that facilitated currency (USD) transactions in a brokerage house in Mexico (Vifaru). These solutions enabled individual investors to purchase fractional shares on the NYSE through a US-based broker (Drivewealth), connecting both brokers (Mexico-USA) with the assistance of an investment advisor (Flink). I am driven by the objective of consistently applying and expanding my skills to develop robust and effective technical solutions in my upcoming role.
+
+
+
 <!--
 **Edi1012/Edi1012** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
