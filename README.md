@@ -2,9 +2,6 @@
 
 ## Hello, I'm Isaac Rodríguez 👋
 
-### About Me
-
-# ISAAC RODRIGUEZ
 [GitHub](https://github.com/Edi1012) | [LinkedIn](http://www.linkedin.com/in/isaac-rodriguez-48787990)  
 Mazatlán, Sinaloa | edi.rosuna@gmail.com
 
